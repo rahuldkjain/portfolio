@@ -169,7 +169,7 @@
         updateMasonry(event);
     });
 
-    $(document).on('change.cards', function(event) {
+    $(document).on('change.cards sortstop', function(event) {
         updateMasonry(event);
     });
 
